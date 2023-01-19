@@ -12,7 +12,11 @@ last_name = input("your last name : ")
 
 #Calling fullname function
 Full_name= fullname(First_name,last_name)
+
+#Printing Full Name
 print("Full Name: "+Full_name)
+
+#Calling string_alternative and printing the same
 print(string_alternative(Full_name))
 
 
