@@ -1,4 +1,4 @@
-# Outputs for Assignemnt 1
+# Outputs for Assignemnt 2
 
 ## output for 1st Question - 1.py
 ![image](https://user-images.githubusercontent.com/122483816/213359312-dc336a8f-9585-4544-9929-d710231921c3.png)
